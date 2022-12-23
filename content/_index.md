@@ -10,11 +10,11 @@ In this bible, you will find information about the Clanware community, how to us
 ## Directory
 ---
 
-**1. The Clanware Community**
-	1.1. Joining the Clanware server and getting involved
-	1.2. Rules and expectations for participation
-	1.3. Resources and support available to members of the community
-	1.4. The Clanware staff hierarchy
+[[The Clanware Community|**1. The Clanware Community**]]
+	[[The Clanware Community#1.1. Joining the Clanware server and getting involved|1.1. Joining the Clanware server and getting involved]]
+	[[The Clanware Community#1.2. Rules and expectations for participation|1.2. Rules and expectations for participation]]
+	[[The Clanware Community#1.3 Resources and support available to members|1.3. Resources and support available to members of the community]]
+	[[The Clanware Community#1.4 The Clanware staff hierarchy|1.4. The Clanware staff hierarchy]]
 
 **2. Using Clanware Services**
 	2.1. Setting up and using @CLANWARE
