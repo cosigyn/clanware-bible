@@ -1,4 +1,4 @@
-baseURL = "https://cosigyn.github.io/clanware-bible/"
+baseURL = "https://bible.clanware.org/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false

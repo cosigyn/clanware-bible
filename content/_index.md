@@ -1,5 +1,5 @@
 ---
-title: Clanware Bible.
+title: Clanware Bible
 enableToc: false
 ---
 
