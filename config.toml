@@ -1,6 +1,6 @@
 baseURL = "https://bible.clanware.org/"
 languageCode = "en-us"
-googleAnalytics = "G-F05DKY0352"
+googleAnalytics = "G-LJ7Z8SPB7T"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
