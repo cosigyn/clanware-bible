@@ -8,6 +8,8 @@ enableToc: true
 openToc: true
 ---
 
+*See also - [[notes/xplt-justice-policy|XPLT Justice Policy]]*
+
 This document outlines the protocol for reviewing, discussing, and voting on DGN Justice submissions and appeals to ensure clarity on what is accepted and/or denied. This document is subject to change without notice.
 
 
