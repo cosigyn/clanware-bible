@@ -15,7 +15,7 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
 ## Evidence Types
 ---
 1.  Exploit Logs
-	- Adversitory / Cosigyn / oLynnz must be in the Log server to verify the log is legitimate
+	- Cosigyn / oLynnz must be in the Log server to verify the log is legitimate
 	- FakeLimbFTI, GetChildrenFTI, etc. are not accepted as valid Logs.
 	- Duplicate logs will not be taken.
 2. Sword Check

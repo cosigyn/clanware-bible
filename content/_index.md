@@ -21,7 +21,7 @@ In this bible, you will find information about the Clanware community, how to us
 - 2.2. Using the group checker and banlist to increase clan safety
 - 2.3. Participating in Clanware events and competitions
 
-**3. War-Clan Walkthrough**
+**[[notes/war-clans|3. War-Clan Walkthrough]]**
 - 3.1. What are War-Clans
 - 3.2. Tips for finding and joining a clan
 - 3.3. Strategies for successful clan wars
