@@ -45,13 +45,13 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
 ---
 1. All cases must contain at least one piece of acceptable evidence.
     - Acceptable evidence is defined as the following: 
-        - A clip from the game showing cheats, or,
-        - An exploit log from an **approved **anti-cheat.
-        - No older than 6 months when the case commences.
+        - A clip from the game showing cheats, that is no older than 6 months, or,
+        - An exploit log from an **approved** anti-cheat, that is no older than 3 months.
 2. Supplementary evidence may be added to a case. This is any form of evidence that proves the ownership or use of exploits, ping modifiers, as well as alternate accounts.
 3. The current list of approved anti cheat is the following:
     - KANTI FTI detection by katman05,
-    - Vanguard FTI detection by death2kev.
+    - Vanguard FTI detection by death2kev,
+    - WARDEN FTI detection by 5ukh,
     - Centraux and Clanware anti
         - FakeLimbFTI, GetChildrenFTI are invalid.
         - All hooking logs accepted except game.Players.Tool
