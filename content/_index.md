@@ -3,9 +3,7 @@ title: Clanware Bible
 enableToc: false
 ---
 
-Welcome to the Clanware Bible! This guide is designed to help newcomers to the genre learn about all the processes and functions of Clanware, a server centralised around the sword aspect of Roblox Clanning. Our goal is to improve and safeguard the genre through a variety of tools and resources, including automation systems, a database of known exploiters, a group checker and banlist, and channels for communication and news.
-
-In this bible, you will find information about the Clanware community, how to use Clanware services, a walkthrough of Roblox clans, an overview of our services, details on Clanware events, and information about the various Clanware panels. We hope that this guide will help you navigate the world of Roblox clanning and make the most of your experience with Clanware. Thank you for joining us, and we look forward to seeing you on the server!
+The Clanware Bible is a comprehensive guide for those new to Roblox clanning through Clanware. It covers all aspects of the genre, including community, tools and resources, services, events, and panels. The goal of this guide is to help improve and safeguard Roblox clanning through automation systems, a database of exploiters, a group checker and banlist, and communication channels. Read on to make the most of your experience with Clanware and navigate the world of Roblox clanning.
 
 ## Directory
 ---
