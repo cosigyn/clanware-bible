@@ -36,13 +36,14 @@ Provides additional information about a specific case's evidence.
 ---
 The group checker and banlist are two important tools offered by Clanware that can help you keep your clan safe from exploiters and cheaters. The group checker will scan the members of your clan and flag any users who have been banned from the Clanware community for exploiting or cheating.
 
-There is both the discord bot command and ingame group checker.
+There is both the discord bot command and [ingame](https://www.roblox.com/games/12024634611/Clanware-Registry-Hub) group checker.
 ![Ingame Group Checker](https://images-ext-2.discordapp.net/external/W_jRr7lqle2mVbLk0IoeSMdmOIxa_iNkzMyofU0muPs/https/ss.clanware.org/spHQuF.png?width=1276&height=671)
 ![Discord Bot Group Checker](https://ss.clanware.org/pV8luk.png)
 
-The banlist, on the other hand, is a database of known exploiters and cheaters within the Roblox community. By using the banlist, you can easily check to see if any potential members of your clan have a history of exploiting or cheating, and make an informed decision about whether or not to allow them to join your clan.
+The banlist, on the other hand, automatically bans people on our database of known exploiters and cheaters within the Roblox community. By using the group checker, you can easily check to see if any potential members of your clan have a history of exploiting or cheating, and make an informed decision about whether or not to allow them to join your clan.
 
-2.3. Participating in Clanware events and competitions
+## 2.3. Participating in Clanware events and competitions
+---
 Clanware hosts a variety of events and competitions throughout the year, which provide an opportunity for clans to come together and compete in a friendly and organized manner. These events can be a great way to engage with the Clanware community, build camaraderie among your clan members, and showcase your skills and abilities.
 
 To participate in a Clanware event, simply sign up and follow the rules and guidelines provided by the event organizers. Whether you're a seasoned pro or a newcomer to the world of Roblox clanning, Clanware events are a great way to get involved and have fun!
