@@ -52,9 +52,11 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
     - KANTI FTI detection by katman05,
     - Vanguard FTI detection by death2kev,
     - WARDEN FTI detection by 5ukh,
+    - Sword Fight and Steal Time by SpiralAPI,
+	    - Fake Limb detection is not accepted.
     - Centraux and Clanware anti
-        - FakeLimbFTI, GetChildrenFTI are invalid.
-        - All hooking logs accepted except game.Players.Tool
+	    - FakeLimbFTI, GetChildrenFTI are invalid.
+	    - All hooking logs accepted except game.Players.Tool
 
 ## Case Length
 ---
