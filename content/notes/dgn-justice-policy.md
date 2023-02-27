@@ -14,7 +14,8 @@ This document outlines the protocol for reviewing, discussing, and voting on DGN
 
 
 ## Charges and Definitions
---
+---
+
 ### Tier 3 - 6 months
 * **Scamming**: Using fraudulent or deceptive practices to obtain money or other assets from another player.
 * **Account Theft**: Unauthorized access to and use of another player's account.
@@ -22,6 +23,7 @@ This document outlines the protocol for reviewing, discussing, and voting on DGN
 * **Blackmail**: Using threats or coercion to obtain money or other assets from another player.
 * **Malicious Distribution**: Sharing malware, exploits, or other harmful files with the intent to cause harm to other players or their devices.
 * **IP grabbing**: Attempting to obtain another player's IP address without their consent.
+* **Sexual Harassment**: Making unwanted sexual advances, comments, or gestures towards another player, or engaging in any other form of unwelcome sexual conduct that creates a hostile or offensive environment. This can also include sharing sexually explicit content or engaging in sexual behavior in a virtual space without consent.
 
 ### Tier 2 - 1 year
 * **Attempted Dox**: Attempting to collect and share personal information about another player without their consent.
