@@ -39,7 +39,8 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
 	- Must provide substantial evidence of being an alt ([Example](https://cdn.discordapp.com/attachments/1034091384052916234/1036404256732872725/unknown.png))
 	- Most of the time a confidential Alt Checker will be used to locate and list alts.
 9.  Account Sharing
-	- Must provide substantial evidence that an exploiter was on the account (ex: Screenshots or DMs)
+	- Must provide substantial evidence that someone was on the account (ex: Screenshots or DMs)
+	- Works both ways - if you play on an exploiters account or if an exploiter plays on your account.
 
 ## Acceptable Evidence
 ---
