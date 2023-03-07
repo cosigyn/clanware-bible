@@ -51,7 +51,7 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
 2. Supplementary evidence may be added to a case. This is any form of evidence that proves the ownership or use of exploits, ping modifiers, as well as alternate accounts.
 3. The current list of approved anti cheat is the following:
     - KANTI FTI detection by katman05,
-    - Vanguard FTI detection by death2kev,
+    - Vanguard FTI detection by oLynnz,
     - WARDEN FTI detection by 5ukh,
     - Sword Fight and Steal Time by SpiralAPI,
 	    - Fake Limb detection is not accepted.
