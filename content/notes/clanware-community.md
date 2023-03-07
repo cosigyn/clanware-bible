@@ -10,11 +10,11 @@ The Clanware Community refers to the primary server of the Clanware member-base.
 
 ## 1.1. Joining the Clanware server and getting involved
 ---
-To get involved with this community you first will need a discord account, or simply go to our [discord server](https://discord.gg/UDxTMSPMqhor)
+To get involved with this community you first will need a discord account, or simply go to our [discord server](https://discord.gg/r45PkmNhmq)
 
 ![Pasted image 20221223013504](notes/images/Pasted%20image%2020221223013504.png)
 
-Once within the discord server, you are an official Clanware member! However, in order to remain one its important to be aware of the [](notes/clanware-community.md#1.2.%20Rules%20and%20expectations%20for%20participation%7Crules%20and%20expectations).
+Once within the discord server, you are an official Clanware member! However, in order to remain one its important to be aware of the [rules](notes/clanware-community.md#1.2.%20Rules%20and%20expectations%20for%20participation%7Crules%20and%20expectations).
 
 ## 1.2. Rules and expectations for participation
 ---
