@@ -46,7 +46,7 @@ There is a chance your skills will be required by the Innovation Panel and you m
 
 ### Funds
 
-Clanware is completely community-run- that includes its funds. This means that the Innovation Panel especially would like for more people to fund its endeavours and you can do so by heading over to this (game)[https://www.roblox.com/games/12024634611/Clanware-Registry-Hub] and funding whatever you wish.
+Clanware is completely community-run- that includes its funds. This means that the Innovation Panel especially would like for more people to fund its endeavours and you can do so by heading over to this [game](https://www.roblox.com/games/12024634611/Clanware-Registry-Hub) and funding whatever you wish.
 
 ### Feedback, Opinions and Queries
 
