@@ -10,7 +10,7 @@ The use of Clanware services can greatly enhance your clan's safety and involvem
 
 ## 2.1. Setting up and using @CLANWARE
 ---
-In order to access and utilize the full range of Clanware services, you must first set up the @CLANWARE bot in your Discord server. This is done by inviting the bot to your server and granting it the appropriate permissions.
+In order to access and utilize the full range of Clanware services, you must first set up the @CLANWARE bot in your Discord server. This is done by inviting the bot to your server and granting it the appropriate permissions. You can use this [link](https://discord.com/api/oauth2/authorize?client_id=872935754806992947&permissions=277025441793&scope=applications.commands%20bot), or the button on the bot profile.
 
 ![Invite Image](https://ss.clanware.org/i8NGkn.png)
 
@@ -40,10 +40,10 @@ There is both the discord bot command and [ingame](https://www.roblox.com/games/
 ![Ingame Group Checker](https://images-ext-2.discordapp.net/external/W_jRr7lqle2mVbLk0IoeSMdmOIxa_iNkzMyofU0muPs/https/ss.clanware.org/spHQuF.png?width=1276&height=671)
 ![Discord Bot Group Checker](https://ss.clanware.org/pV8luk.png)
 
-The banlist, on the other hand, automatically bans people on our database of known exploiters and cheaters within the Roblox community. By using the group checker, you can easily check to see if any potential members of your clan have a history of exploiting or cheating, and make an informed decision about whether or not to allow them to join your clan.
+The [banlist](), on the other hand, automatically bans people on our database of known exploiters and degenerates within the clanning community. By using the group checker, you can easily check to see if any potential members of your clan have a history of exploiting or cheating, and make an informed decision about whether or not to allow them to join your clan.
 
 ## 2.3. Participating in Clanware events and competitions
 ---
 Clanware hosts a variety of events and competitions throughout the year, which provide an opportunity for clans to come together and compete in a friendly and organized manner. These events can be a great way to engage with the Clanware community, build camaraderie among your clan members, and showcase your skills and abilities.
 
-To participate in a Clanware event, simply sign up and follow the rules and guidelines provided by the event organizers. Whether you're a seasoned pro or a newcomer to the world of Roblox clanning, Clanware events are a great way to get involved and have fun!
+To find out more about this, please head to section 5 of the bible to inform yourself of the events Clanware holds and how to get involved. Whether you're a seasoned pro or a newcomer to the world of Roblox clanning, Clanware events are a great way to get involved and have fun!
