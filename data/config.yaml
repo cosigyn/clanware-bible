@@ -2,16 +2,16 @@ name: Clanware Bible
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
-enableMermaid: true
+enableMermaid: false
 GitHubLink: https://github.com/cosigyn/clanware-bible/tree/hugo/content
 search:
   enableSemanticSearch: false
@@ -21,6 +21,6 @@ description: Clanware is an organisation centralised around the sword-fighting a
 page_title: "📖 Clanware Bible"
 links:
   - link_name: Discord
-    link: https://discord.gg/UDxTMSPMqh
+    link: https://discord.gg/r45PkmNhmq
   - link_name: Clanware
     link: https://clanware.org
