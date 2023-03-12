@@ -14,7 +14,7 @@ The Clanware Bible is a comprehensive guide for those new to Roblox clanning thr
 - 1.3 Resources and support available to members
 - 1.4 Clanware staff hierarchy
 
-**2. Using Clanware Services**
+**[[notes/clanware-services|2. Using Clanware Services]]**
 - 2.1. Setting up and using @CLANWARE
 - 2.2. Using the group checker and banlist to increase clan safety
 - 2.3. Participating in Clanware events and competitions
@@ -25,16 +25,15 @@ The Clanware Bible is a comprehensive guide for those new to Roblox clanning thr
 - 3.3. Strategies for successful clan wars
 - 3.4. Ways to promote your clan and attract new members
 
-**4. Our Services**
+**[[notes/our-services|4. Our Services]]**
 - 4.1. Clan Technology
 - 4.2. Raid Request Technology
 
-**5. Clanware Events**
+**[[notes/clanware-events|5. Clanware Events]]**
 - 5.1. What is Clanware League
-- 5.2. What is the Clanware Vault
 
 **[[notes/clanware-panels|6. Clanware Panels]]**
-- 6.1. What is the Community Panel 
-- 6.2. What is the Justice Panel
-- 6.3. What is the Innovation Panel
-- 6.4. What is the Moderation Panel
+- 6.1. Community Panel 
+- 6.2. Justice Panel
+- 6.3. Innovation Panel
+- 6.4. Moderation Panel
