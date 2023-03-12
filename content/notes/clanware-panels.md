@@ -20,7 +20,7 @@ The Justice Panel is responsible for reviewing clips and evidence of exploiters 
 ---
 The Innovation Panel is responsible for identifying and implementing new ideas and improvements to the Clanware platform and community. This panel works closely with the directors and executives to identify areas for growth and development, and to develop and implement new strategies and initiatives.
 
-See [[notes/innovation-panel.md|Innovation Panel]] for more information.
+See [[notes/innovation-panel|Innovation Panel]] for more information.
 
 ### 6.4 What is the Moderation Panel
 ---
