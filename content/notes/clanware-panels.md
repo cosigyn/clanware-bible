@@ -20,6 +20,8 @@ The Justice Panel is responsible for reviewing clips and evidence of exploiters 
 ---
 The Innovation Panel is responsible for identifying and implementing new ideas and improvements to the Clanware platform and community. This panel works closely with the directors and executives to identify areas for growth and development, and to develop and implement new strategies and initiatives.
 
+See [[notes/innovation-panel|Innovation Panel]] for more information.
+
 ### 6.4 What is the Moderation Panel
 ---
 The Moderation Panel is responsible for ensuring that the Clanware Discord server is a safe and welcoming place for all members. This panel is made up of moderators who are responsible for enforcing the rules of the community, handling reports of rule-breaking, and providing support and assistance to members.
