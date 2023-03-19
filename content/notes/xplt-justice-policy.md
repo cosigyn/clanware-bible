@@ -53,6 +53,7 @@ This document outlines the protocol for reviewing, discussing, and voting on XPL
     - KANTI FTI detection by katman05,
     - Vanguard FTI detection by oLynnz,
     - WARDEN FTI detection by 5ukh,
+    - BlAnti FTI detection by Buakeu,
     - Sword Fight and Steal Time by SpiralAPI,
 	    - Fake Limb detection is not accepted.
     - Centraux and Clanware anti
